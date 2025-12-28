@@ -84,9 +84,9 @@ fairness_report = engine.audit_fairness(X_test, sensitive_features)
 
 ## Documentation
 
-- [Implementation Plan](docs/IMPLEMENTATION_PLAN.md)
-- [Architecture Overview](docs/ARCHITECTURE.md)
-- [API Reference](docs/API.md)
+- [Implementation Plan](docs/IMPLEMENTATION_PLAN.md) - Comprehensive 7-phase development roadmap
+
+Additional documentation (Architecture Overview, API Reference) will be created as the project progresses through implementation phases.
 
 ## Data Requirements
 
